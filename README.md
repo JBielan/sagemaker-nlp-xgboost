@@ -1,5 +1,5 @@
 # Introduction
-25000 of labeled IMDb reviews are used to train with XGBoost algorithm and another 25 reviews are used for model validation. It's very easy to achieve even 90% accuracy! Feel free to use that model for your personal projects. 
+25000 of labeled IMDb reviews are used to train with XGBoost algorithm and another 25000 reviews are used for model validation. It's very easy to achieve even 90% accuracy! Feel free to use that model for your personal projects. 
 
 # What's the cost of calculations?
 It's completely free. 
